@@ -1,0 +1,25 @@
+{
+  "name": {
+    "en": "Soul devour",
+    "ru": "Пожиратель душ",
+    "uk": "Пожирач душ"
+  },
+  "description": {
+    "en": "Be careful, she’s very eager to suck the soul out of you 😈",
+    "ru": "Осторожно, она очень жаждет высосать всю душу 😈",
+    "uk": "Обережно, вона дуже прагне висмоктати всю душу з тебе 😈"
+  },
+  "type": "overlay",
+  "version": "1.0.0",
+  "author": "RocketMan",
+  "icon": "logo.svg",
+  "overlay": {
+    "audio": "audio.mp3",
+    "video": "video.webm",
+    "defaultVolume": 50,
+    "defaultDuration": 7,
+    "lockDuration": true,
+    "durationMin": 7,
+    "durationMax": 7
+  }
+}
